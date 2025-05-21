@@ -242,5 +242,7 @@ If you’ve finished exploring Azure AI Foundry portal, you should delete the re
 Open the Azure portal and view the contents of the resource group where you deployed the resources used in this exercise.
 On the toolbar, select Delete resource group.
 Enter the resource group name and confirm that you want to delete it.
+[
+](https://ai.azure.com/resource/playground?wsid=/subscriptions/7bd92215-5ba6-4709-9537-589d3bd5ad90/resourceGroups/rg-shogadaini-9438/providers/Microsoft.CognitiveServices/accounts/shogadaini-9438-resource/projects/shogadaini-9438&tid=5509a949-1817-4f94-90fc-70b1746def1c&deploymentId=/subscriptions/7bd92215-5ba6-4709-9537-589d3bd5ad90/resourceGroups/rg-shogadaini-9438/providers/Microsoft.CognitiveServices/accounts/shogadaini-9438-resource/deployments/gpt-4o)
 
 https://github.com/olushogadaini/Generative-AI-chat-APP-using-Azure-AI-Foundry-SDK---Shoga-Daini/blob/b10b30b26db8ab609a1854fc96f6b05b4823ffe0/README.md
